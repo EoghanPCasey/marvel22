@@ -38,7 +38,7 @@ Conor Aitken - L00159162 |
 Shaun Curran - L00149334 |
 Darragh Johnston - L00157346 |
 Darren Edwards - L00149822 |
-Jing Ming Yeoh - L00155848 |
+Jing Ming Yeoh - L00155848 
 
 # Project Deadline
 Refer to BB for deadlines
